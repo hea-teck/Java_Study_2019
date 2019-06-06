@@ -1,0 +1,18 @@
+package org.opentutorials.javatutorials.variables;
+
+public class IntegerDemo {
+
+	public static void main(String[] args) {
+
+		string a;
+		a = 1;
+		
+		System.out.println(a+1);
+		
+		a = 2;
+		
+		System.out.println(a+2);
+		
+	}
+
+}
